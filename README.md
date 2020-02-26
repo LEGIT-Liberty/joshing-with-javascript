@@ -1,7 +1,6 @@
-# dms-spring-2020
-## Liberty Mutual LEGIT Dover Middle School Creative Coding
+# Liberty Mutual LEGIT Gaming with JavaScript
 
-### Week 1:  
+## Week 1:  
 
 1. Ice Breaker/ Introductions
 
@@ -33,7 +32,7 @@
 
 * Turn off computers
 
-### Week 2:  
+## Week 2:  
 
 1. Ice Breaker –  
 
